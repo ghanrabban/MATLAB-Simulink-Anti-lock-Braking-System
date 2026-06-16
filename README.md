@@ -6,6 +6,11 @@ To run the program smoothly, first open ABSData.m and run it. Then, in Simulink,
 
 Please cite the original paper when citing this work https://doi.org/10.1145/3557738.3557945
 
+```bash
+git clone [https://github.com/yourusername/predictive-maintenance-pipeline.git](https://github.com/yourusername/predictive-maintenance-pipeline.git)
+cd predictive-maintenance-pipeline
+```
+
 <img width="1700" height="2200" alt="3557738 3557945-1" src="https://github.com/user-attachments/assets/2edaad37-eb48-434a-8d23-a036cdba1c4b" />
 <img width="1700" height="2200" alt="3557738 3557945-2" src="https://github.com/user-attachments/assets/2f3dd4c7-923c-42e9-9234-75041865c9ec" />
 <img width="1700" height="2200" alt="3557738 3557945-3" src="https://github.com/user-attachments/assets/632d3012-5d32-4aa1-8079-a6de50d458cb" />
