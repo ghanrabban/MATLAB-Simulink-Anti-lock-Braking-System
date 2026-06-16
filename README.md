@@ -23,7 +23,7 @@ Ghanrabban. (2022). matlab-simulink-anti-lock-braking-system. GitHub. https://gi
 ```
 ### IEEE style
 ```bash
-Ghanrabban, “matlab-simulink-anti-lock-braking-system,” GitHub, https://github.com/ghanrabban/MATLAB-Simulink-Anti-lock-Braking-System (accessed Jun. 2026). 
+Ghanrabban, “matlab-simulink-anti-lock-braking-system,” GitHub, https://github.com/ghanrabban/MATLAB-Simulink-Anti-lock-Braking-System 
 ```
 
 <img width="1700" height="2200" alt="3557738 3557945-1" src="https://github.com/user-attachments/assets/2edaad37-eb48-434a-8d23-a036cdba1c4b" />
