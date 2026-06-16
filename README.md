@@ -4,11 +4,26 @@ This is a MATLAB-Simulink computational simulation of Anti-lock Braking System u
 
 To run the program smoothly, first open ABSData.m and run it. Then, in Simulink, open the ABSBang.slx file and run the program. 
 
-Please cite the original paper when citing this work https://doi.org/10.1145/3557738.3557945
+Please cite the original paper when citing this work:
 
+## Paper Citation
+### APA style
 ```bash
-git clone [https://github.com/yourusername/predictive-maintenance-pipeline.git](https://github.com/yourusername/predictive-maintenance-pipeline.git)
-cd predictive-maintenance-pipeline
+Rabbani, G. A., Syahriar, A., & Astharini, D. (2022). Controlling the performance of anti-lock braking system at various tracks and vehicle conditions. Proceedings of the 2022 International Conference on Engineering and Information Technology for Sustainable Industry, 1–6. https://doi.org/10.1145/3557738.3557945 
+```
+### IEEE style
+```bash
+G. A. Rabbani, A. Syahriar, and D. Astharini, “Controlling the performance of anti-lock braking system at various tracks and vehicle conditions,” Proceedings of the 2022 International Conference on Engineering and Information Technology for Sustainable Industry, pp. 1–6, Sep. 2022. doi:10.1145/3557738.3557945 
+```
+
+## GitHub Repo Citation
+### APA style
+```bash
+Ghanrabban. (2022). matlab-simulink-anti-lock-braking-system. GitHub. https://github.com/ghanrabban/MATLAB-Simulink-Anti-lock-Braking-System 
+```
+### IEEE style
+```bash
+Ghanrabban, “matlab-simulink-anti-lock-braking-system,” GitHub, https://github.com/ghanrabban/MATLAB-Simulink-Anti-lock-Braking-System (accessed Jun. 2026). 
 ```
 
 <img width="1700" height="2200" alt="3557738 3557945-1" src="https://github.com/user-attachments/assets/2edaad37-eb48-434a-8d23-a036cdba1c4b" />
